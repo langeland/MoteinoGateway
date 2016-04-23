@@ -1,0 +1,13 @@
+{
+  "name": "MoteinoGateway",
+  "version": "0.0.0",
+  "description": "Connecting Arduino to Nodejs using serial ports",
+  "main": "app.js",
+  "dependencies": {
+    "serialport": "2.0.*",
+    "sqlite3": "3.*",
+    "node-uuid": "2.*"
+  },
+  "author": "Jon Klixbüll Langeland",
+  "license": "ISC"
+}
